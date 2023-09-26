@@ -1,6 +1,6 @@
 # Innovative Hospitality Hub
 
-Welcome to the Innovative Hospitality Hub, a comprehensive Java project developed by the team lead, Mohaimenul Azam Khan Raiaan 🧑‍💼, along with team members Nur Mohammad Fahad and Shovan Choudhury. This project leverages Java for the backend, JavaFX for the frontend, and MySQL for the database, creating a versatile hotel management system. Whether you're a customer or an employee, our interface provides an intuitive way to interact with various hotel functions.
+Welcome to the Innovative Hospitality Hub, a comprehensive Java project developed for my undergraduate advanced object-oriented programming laboratory. This project leverages Java for the backend, JavaFX for the frontend, and MySQL for the database, creating a versatile hotel management system. Whether you're a customer or an employee, our interface provides an intuitive way to interact with various hotel functions.
 
 ## Table of Contents
 - [Features](#features)
@@ -64,23 +64,23 @@ Follow the prompts in the application to navigate through the various interfaces
 
 ## Screenshots 📷
 
-![Screenshot 1](figures/1.png)
-*Caption for Screenshot 1*
+![Screenshot 1](Figures/1.png)
+*Home Page*
 
-![Screenshot 2](figures/2.png)
-*Caption for Screenshot 2*
+![Screenshot 2](Figures/2.png)
+*Customer Dashboard*
 
-![Screenshot 3](figures/3.png)
-*Caption for Screenshot 3*
+![Screenshot 3](Figures/3.png)
+*Login Page for Employee*
 
-![Screenshot 4](figures/4.png)
-*Caption for Screenshot 4*
+![Screenshot 4](Figures/4.png)
+*Employee Dashboard*
 
 ## Contributors 👥
 
-- [Mohaimenul Azam Khan Raiaan](https://github.com/mraiaan) 🧑‍💼 (Team Lead)
+- [Mohaimenul Azam Khan Raiaan](https://github.com/mak-raiaan) 🧑‍💼 (Team Lead)
 - Nur Mohammad Fahad
-- Shovan Choudhury
+- Shovan Chowdhury
 
 ## Contact 📧
 
