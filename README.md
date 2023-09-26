@@ -3,13 +3,30 @@
 Welcome to the Innovative Hospitality Hub, a comprehensive Java project developed for my undergraduate advanced object-oriented programming laboratory. This project leverages Java for the backend, JavaFX for the frontend, and MySQL for the database, creating a versatile hotel management system. Whether you're a customer or an employee, our interface provides an intuitive way to interact with various hotel functions.
 
 ## Table of Contents
-- [Features](#features)
+- [Contributors](#contributors)
 - [Tools Used](#tools-used)
+- [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributors](#contributors)
+- [Project Visualization](#project-visualization)
 - [Contact](#contact)
+
+## Contributors 👥
+
+- **Mohaimenul Azam Khan Raiaan 🧑‍💼 (Team Lead)**  
+  [GitHub](https://github.com/mak-raiaan)
+
+- **Nur Mohammad Fahad**  
+  [GitHub](https://github.com/FahadUIU)
+
+- **Shovan Chowdhury**  
+  [GitHub](https://github.com/shovanch)
+
+## Tools Used 🛠️
+
+- Java (Backend)
+- JavaFX (Frontend)
+- MySQL (Database)
 
 ## Features 🏨
 
@@ -43,12 +60,6 @@ Welcome to the Innovative Hospitality Hub, a comprehensive Java project develope
 - 🔄 **Update Room Status**: Update a room's status.
 - 🏢 **Department**: View the status of various hotel departments.
 
-## Tools Used 🛠️
-
-- Java (Backend)
-- JavaFX (Frontend)
-- MySQL (Database)
-
 ## Getting Started 🚀
 
 To get started with our Innovative Hospitality Hub, follow these steps:
@@ -62,25 +73,27 @@ To get started with our Innovative Hospitality Hub, follow these steps:
 
 Follow the prompts in the application to navigate through the various interfaces and utilize the features of the Innovative Hospitality Hub.
 
-## Screenshots 📷
+## Project Visualization 🌆
 
-![Screenshot 1](Figures/1.png)
-*Home Page*
+<figure style="text-align: center;">
+  <img src="Figures/1.png" alt="Home Page" width="400">
+  <figcaption style="color: #1E90FF;">Home Page</figcaption>
+</figure>
 
-![Screenshot 2](Figures/2.png)
-*Customer Dashboard*
+<figure style="text-align: center;">
+  <img src="Figures/2.png" alt="Customer Dashboard" width="400">
+  <figcaption style="color: #1E90FF;">Customer Dashboard</figcaption>
+</figure>
 
-![Screenshot 3](Figures/3.png)
-*Login Page for Employee*
+<figure style="text-align: center;">
+  <img src="Figures/3.png" alt="Login Page for Employee" width="400">
+  <figcaption style="color: #1E90FF;">Login Page for Employee</figcaption>
+</figure>
 
-![Screenshot 4](Figures/4.png)
-*Employee Dashboard*
-
-## Contributors 👥
-
-- [Mohaimenul Azam Khan Raiaan](https://github.com/mak-raiaan) 🧑‍💼 (Team Lead)
-- Nur Mohammad Fahad
-- Shovan Chowdhury
+<figure style="text-align: center;">
+  <img src="Figures/4.png" alt="Employee Dashboard" width="400">
+  <figcaption style="color: #1E90FF;">Employee Dashboard</figcaption>
+</figure>
 
 ## Contact 📧
 
