@@ -20,7 +20,7 @@ Welcome to the Innovative Hospitality Hub, a comprehensive Java project develope
   [GitHub](https://github.com/FahadUIU)
 
 - **Shovan Chowdhury**  
-  [GitHub](https://github.com/shovanch)
+  [GitHub](https://github.com/)
 
 ## Tools Used 🛠️
 
